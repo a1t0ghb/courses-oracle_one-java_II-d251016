@@ -6,9 +6,11 @@
 //  Package location definition.
 package a1t0ghb.courses_oracle_one.course_java_ii.models;
 
+//  IMPORTS: EXTERNAL classes and interfaces.
+
 /**
  *
- * @author vscode
+ * @author a1t0ghb
  */
 public class Titulo {
 

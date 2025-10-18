@@ -6,6 +6,8 @@
 //  Package location definition.
 package a1t0ghb.courses_oracle_one.course_java_ii.models;
 
+//  IMPORTS: EXTERNAL classes and interfaces.
+
 /**
  *
  * @author a1t0ghb

@@ -6,7 +6,7 @@
 //  Package location definition.
 package a1t0ghb.courses_oracle_one.course_java_ii.models;
 
-//  IMPORTS: external classes and interfaces.
+//  IMPORTS: EXTERNAL classes and interfaces.
 import a1t0ghb.courses_oracle_one.course_java_ii.computations.Clasificacion;
 
 /**
