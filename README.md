@@ -53,7 +53,7 @@ Final delivery of the 2nd course: '[Java: aplicando la Orientación a Objetos](h
 
 This final delivery consists of 2 projects, each one in it's own folder (using folders structure of [Maven's java build automation tool](https://github.com/a1t0ghb/courses-oracle_one-java_I-d251011/blob/main/README.md#choosing-a-java-automation-tool-for-builds-maven-vs-gradle-vs-intellijs-buitl-in-tool)):
 
-- Course exercise; in folder: [`course_java_i`](./course_java_ii).
+- Course exercise; in folder: [`course_java_ii`](./course_java_ii).
 - Course challenge of an audio player app; in folder: [`course_java_ii_challenge_app_audio_player`](./course_java_ii_challenge_app_audio_player).
 
 <!-- Callouts:
